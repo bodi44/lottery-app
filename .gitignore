@@ -1,0 +1,27 @@
+/node_modules
+/.idea
+
+/lottery-contract/node_modules
+/lottery-contract/.idea
+
+/loterry-react/node_modules
+/loterry-react/.idea
+/loterry-react/.pnp
+/loterry-react/.pnp.js
+
+# testing
+/loterry-react/coverage
+
+# production
+/loterry-react/build
+
+# misc
+/loterry-react/.DS_Store
+/loterry-react/.env.local
+/loterry-react/.env.development.local
+/loterry-react/.env.test.local
+/loterry-react/.env.production.local
+
+/loterry-react/npm-debug.log*
+/loterry-react/yarn-debug.log*
+/loterry-react/yarn-error.log*
