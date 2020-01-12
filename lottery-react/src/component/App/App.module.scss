@@ -1,0 +1,53 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+}
+
+.description {
+    margin: 10px 0 !important;
+}
+
+.manager {
+    font-size: 24px !important;
+    font-weight: 500 !important;
+    color: #757575;
+    margin-bottom: 5px !important;
+}
+
+.paperContainer {
+    max-width: 800px;
+    min-width: 300px;
+    margin-bottom: 25px;
+    padding: 20px;
+}
+
+.subtitle {
+    margin-bottom: 15px !important;
+    font-size: 20px !important;
+    font-weight: bold !important;
+}
+
+.enterLotteryInput {
+    display: flex;
+    flex-direction: row;
+}
+
+.inputField {
+    flex: 1 1 70%;
+}
+
+.submitButtom {
+    flex: 1 1 30%;
+}
+
+.alert {
+    font-size: 24px !important;
+    font-weight: bold !important;
+    width: 810px !important;
+}
+
+.circleProgress {
+    margin-top: 10px;
+    margin-left: 10px;
+}

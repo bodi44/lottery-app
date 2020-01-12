@@ -19,7 +19,7 @@ const deploy = async () => {
     .deploy({ data: `0x${evm.bytecode.object}` })
     .send({ from: accounts[0], gas: 1000000 });
 
-  console.log(abi);
+  console.log(JSON.stringify(abi));
   console.log(`Contract deployed ${result.options.address}`);
 };
 

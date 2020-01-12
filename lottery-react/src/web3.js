@@ -10,10 +10,7 @@ const checkProviders = () => {
     return web3;
   }
 };
-//
-// // window.web3 = new Web3(web3.currentProvider);
+
 const web3 = checkProviders();
-//
-// // console.log(web3.then(res => console.log(res)));
-//
+
 export default web3;

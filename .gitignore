@@ -1,11 +1,12 @@
 /node_modules
 /.idea
+/.vscode
 
 /lottery-contract/node_modules
 /lottery-contract/.idea
 
-/loterry-react/node_modules
-/loterry-react/.idea
+/lottery-react/node_modules
+/lottery-react/.idea
 /loterry-react/.pnp
 /loterry-react/.pnp.js
 

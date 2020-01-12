@@ -19,6 +19,7 @@ describe('Lottery contract', () => {
   it('deploys contract', () => {
     // When
     // Then
+    console.log(lottery.options.address);
     assert.ok(lottery.options.address);
   });
 
