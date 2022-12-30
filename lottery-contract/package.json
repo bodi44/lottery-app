@@ -16,6 +16,6 @@
     "web3": "1.2.4"
   },
   "devDependencies": {
-    "mocha": "7.0.0"
+    "mocha": "10.2.0"
   }
 }
